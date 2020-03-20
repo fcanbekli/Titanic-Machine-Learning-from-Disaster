@@ -39,7 +39,7 @@ Siblings / spouses aboard the Titanic<br/>
 **Parch:**
 Parents / children aboard the Titanic<br/>
 **Ticket:**
-Ticket numver of the passenger<br/>
+Ticket number of the passenger<br/>
 **Fare:**
 Passenger fare<br/>
 **Cabin:**
